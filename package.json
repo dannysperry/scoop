@@ -1,0 +1,11 @@
+{
+  "name": "scoop",
+  "version": "0.0.0",
+  "description": "Take control of your news.",
+  "main": "index.js",
+  "keywords": ["News", "Scoop", "Trust"],
+  "repository": "git@github.com:dannysperry/scoop.git",
+  "author": "Daniel Sperry <danny.sperry@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
